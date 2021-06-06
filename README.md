@@ -1,4 +1,4 @@
-# FaceRegocnition
+# FaceRecognition
 It uses mediapipe and opencv-python
 Its coded in python and all you need is a webcam to run it on
 
